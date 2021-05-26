@@ -12,7 +12,7 @@ int main()
 	
 	meter = distance* 1000;
 	feets = distance* 3280.84;
-	inches = distance* 100000;
+	inches = distance* 39370.079;
 	
 	printf("meter = %f\n",meter);
 	printf("feets=%f\n",feets);
